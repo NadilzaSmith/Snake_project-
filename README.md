@@ -1,2 +1,2 @@
-# Snake_project-
+# Snake_project
 Old phone game snake
